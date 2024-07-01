@@ -4,6 +4,8 @@
 This project demonstrates sentiment analysis on the IMDB movie reviews dataset using various NLP techniques and machine learning models to classify reviews as positive or negative. IMDb (an acronym for Internet Movie Database) is an online database of information related to films, television series, podcasts, home videos, video games, and streaming content online including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. This document is about training a machine learning model to flag sentiment using IMDb dataset. The document includes steps for data preprocessing, tokenizing, pos-tagging, lemmatizing, and sentiment analysis. 
 It also compares the results of VaderSentiment libraries and human level labeling for sentiment analysis. The document presents the accuracy scores, confusion matrices, and classification reports for both Naive Bayes and Random Forest algorithms applied to the dataset. Finally, it provides a function to predict sentiment based on input text. Any kind of negative or positive review will be flagged correctly with the use of this model.
 
+![Image](https://github.com/saikatdas3478/imdbsentimentanalysis/blob/main/Sentimental-Analysis-of-IMDB-movie-reviews-1024x427.webp)
+
 ## Dataset
 - **Source**: 50,000 IMDB movie reviews.
 - **Sample**: 10,000 randomly selected reviews.
