@@ -35,7 +35,7 @@ It also compares the results of VaderSentiment libraries and human level labelin
 ## How to Run the Code
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/saikatdas3478/imdbsentimentanalysis
     ```
 2. **Install required packages**:
     ```bash
